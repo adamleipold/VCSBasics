@@ -1,0 +1,10 @@
+C:\Users\VLSH-Adam\.Rider2019.2\config\resharper-host\RiderTutorials\Tutorials\T10\VCSBasics\bin\Debug\netcoreapp2.1\VCSBasics.deps.json
+C:\Users\VLSH-Adam\.Rider2019.2\config\resharper-host\RiderTutorials\Tutorials\T10\VCSBasics\bin\Debug\netcoreapp2.1\VCSBasics.runtimeconfig.json
+C:\Users\VLSH-Adam\.Rider2019.2\config\resharper-host\RiderTutorials\Tutorials\T10\VCSBasics\bin\Debug\netcoreapp2.1\VCSBasics.runtimeconfig.dev.json
+C:\Users\VLSH-Adam\.Rider2019.2\config\resharper-host\RiderTutorials\Tutorials\T10\VCSBasics\bin\Debug\netcoreapp2.1\VCSBasics.dll
+C:\Users\VLSH-Adam\.Rider2019.2\config\resharper-host\RiderTutorials\Tutorials\T10\VCSBasics\bin\Debug\netcoreapp2.1\VCSBasics.pdb
+C:\Users\VLSH-Adam\.Rider2019.2\config\resharper-host\RiderTutorials\Tutorials\T10\VCSBasics\obj\Debug\netcoreapp2.1\VCSBasics.csprojAssemblyReference.cache
+C:\Users\VLSH-Adam\.Rider2019.2\config\resharper-host\RiderTutorials\Tutorials\T10\VCSBasics\obj\Debug\netcoreapp2.1\VCSBasics.AssemblyInfoInputs.cache
+C:\Users\VLSH-Adam\.Rider2019.2\config\resharper-host\RiderTutorials\Tutorials\T10\VCSBasics\obj\Debug\netcoreapp2.1\VCSBasics.AssemblyInfo.cs
+C:\Users\VLSH-Adam\.Rider2019.2\config\resharper-host\RiderTutorials\Tutorials\T10\VCSBasics\obj\Debug\netcoreapp2.1\VCSBasics.dll
+C:\Users\VLSH-Adam\.Rider2019.2\config\resharper-host\RiderTutorials\Tutorials\T10\VCSBasics\obj\Debug\netcoreapp2.1\VCSBasics.pdb
